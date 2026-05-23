@@ -129,14 +129,17 @@
 
 ## 📌 Featured projects
 
-| Repo | What it does | Stack |
-|---|---|---|
-| [healthcare-claims-api](https://github.com/ajayp7tech/healthcare-claims-api) | HIPAA-compliant claims API — OAuth2, JWT, Kafka event publishing | Java 17 · Spring Boot · Kafka · AWS |
-| [order-processing-microservices](https://github.com/ajayp7tech/order-processing-microservices) | Multi-service order system with async Kafka comms + Docker Compose | Java · Spring Boot · Kafka · Docker |
-| [aws-terraform-infra-templates](https://github.com/ajayp7tech/aws-terraform-infra-templates) | Reusable Terraform modules: EKS, RDS Aurora, ElastiCache, API Gateway | Terraform · AWS |
-| [kafka-streams-realtime-analytics](https://github.com/ajayp7tech/kafka-streams-realtime-analytics) | Real-time stream processing — windowed aggregations, DLQ handling | Kafka Streams · Java 21 |
-| [spring-ai-rag-demo](https://github.com/ajayp7tech/spring-ai-rag-demo) | RAG pipeline using Spring AI + OpenAI API for document Q&A | Spring AI · Java · LangChain4j |
-| [angular-health-dashboard](https://github.com/ajayp7tech/angular-health-dashboard) | Angular 19 dashboard with REST integration and Chart.js | Angular 19 · TypeScript · RxJS |
+> 🚧 &nbsp;Projects are actively being built — check back soon!
+>
+> I'm currently building out a portfolio of hands-on projects covering Java microservices, Kafka event streaming, AWS infrastructure, and Spring AI. Each repo will include full documentation, CI/CD pipelines, and test coverage.
+
+<div align="center">
+
+<a href="https://github.com/ajayp7tech?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
