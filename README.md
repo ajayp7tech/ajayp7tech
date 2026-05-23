@@ -5,7 +5,8 @@
 <a href="https://linkedin.com/in/ajayp7tech"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://ajayp7tech.github.io"><img src="https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <a href="mailto:ajayp.tech.777@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://www.credly.com/badges/398e15b7-2fd7-426a-8d1d-d57f735a3fe1/public_url"><img src="https://img.shields.io/badge/AWS_Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+<a href="https://www.credly.com/badges/398e15b7-2fd7-426a-8d1d-d57f735a3fe1/public_url"><img src="https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>&nbsp;
+<a href="https://www.credly.com/badges/398e15b7-2fd7-426a-8d1d-d57f735a3fe1/public_url"><img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/></a>
 
 <br/>
 
@@ -96,9 +97,15 @@
   <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="85" alt="AWS Certified Solutions Architect – Associate"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/398e15b7-2fd7-426a-8d1d-d57f735a3fe1/public_url">
+  <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="85" alt="AWS Certified Cloud Practitioner"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 <img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="85" alt="AZ-900 In Progress" style="opacity:0.4"/>
 
 **AWS Certified Solutions Architect – Associate** · ✅ [Verify on Credly](https://www.credly.com/badges/398e15b7-2fd7-426a-8d1d-d57f735a3fe1/public_url)
+
+**AWS Certified Cloud Practitioner** · ✅ Earned alongside Solutions Architect
 
 **Microsoft Azure Fundamentals AZ-900** · 🔄 In Progress — Expected Q3 2026
 
