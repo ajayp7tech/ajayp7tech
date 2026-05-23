@@ -129,9 +129,75 @@
 
 ## 📌 Featured projects
 
-> 🚧 &nbsp;Projects are actively being built — check back soon!
->
-> I'm currently building out a portfolio of hands-on projects covering Java microservices, Kafka event streaming, AWS infrastructure, and Spring AI. Each repo will include full documentation, CI/CD pipelines, and test coverage.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [healthcare-claims-api](https://github.com/ajayp7tech/healthcare-claims-api)
+HIPAA-aware claims processing REST API with Kafka event publishing, OAuth2 + JWT security, and role-based access control.
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 [order-processing-microservices](https://github.com/ajayp7tech/order-processing-microservices)
+Three independent microservices (Order, Inventory, Notification) communicating asynchronously via Kafka with Redis caching and Docker Compose.
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0f3460?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ [aws-terraform-infra-templates](https://github.com/ajayp7tech/aws-terraform-infra-templates)
+Reusable Terraform modules for EKS, RDS Aurora, ElastiCache, and API Gateway — multi-environment (dev / staging / prod) with GitHub Actions CI.
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [kafka-streams-realtime-analytics](https://github.com/ajayp7tech/kafka-streams-realtime-analytics)
+Real-time stream processing with windowed aggregations, DLQ routing, exactly-once semantics, and a live Grafana dashboard.
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kafka Streams](https://img.shields.io/badge/Kafka_Streams-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [spring-ai-rag-demo](https://github.com/ajayp7tech/spring-ai-rag-demo)
+RAG pipeline using Spring AI + OpenAI — upload documents, ask questions in plain English, get answers grounded in your own content.
+
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [ajayp7tech.github.io](https://github.com/ajayp7tech/ajayp7tech.github.io)
+Personal portfolio site — live at [ajayp7tech.github.io](https://ajayp7tech.github.io)
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0f3460?style=flat-square&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
